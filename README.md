@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlondy
 - 👀 I’m interested in web development and volleyball!
-- 🌱 I’m currently learning Gulp.js.
+- 🌱 I’m currently learning Three.js & Blender.
 - 📫 How to reach me Jason.Lalonde@dal.ca
 
 <!---

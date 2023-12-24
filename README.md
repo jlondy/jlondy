@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jlondy
-- 👀 I’m interested in web development and volleyball!
-- 🌱 I’m currently learning Three.js & Blender.
-- 📫 How to reach me Jason.Lalonde@dal.ca
+- 👀 Web development + volleyball!
+- 🌱 I’m currently learning Framer Motion.
+- 📫 How to reach me Jason.Lalonde@hotmail.com
 
 <!---
 jlondy/jlondy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
